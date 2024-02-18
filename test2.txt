@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hiiiii--dev
-=======
-H -dev
->>>>>>> origin/master
+Hiiiii dev
